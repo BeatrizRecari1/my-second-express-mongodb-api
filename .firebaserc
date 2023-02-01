@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "my-second-express-mongodb-api"
+  }
+}
